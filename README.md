@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am María Estrella</h1>
 <br>
 <p align="left"> <img src="/Users/mluisaestrella/Desktop/GitHub Banner.jpg" alt="mlestrella843" /> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="/Users/mluisaestrella/Desktop/GitHub Banner.jpg" alt="mlestrella843" /></a>
+<a><img src="/Users/mluisaestrella/Desktop/GitHub Banner.jpg" alt="mlestrella843" /></a>
 
 
 </p>
