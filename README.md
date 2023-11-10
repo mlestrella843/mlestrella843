@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Maria Estrella</h1>
 <br>
 <p style="text-align:justify;">A passionate Full Stack developer, lover of technology in general. For me, technology is not just a passion; it's a mission to transform lives, enhancing the quality of existence and addressing an array of challenges across various domains. Whether it's in the realms of education, finance, housing, or leisure pursuits, technology serves as a versatile force, a pivotal axis that profoundly influences our lives. It goes beyond mere innovation—it's a catalyst for positive change, fostering inclusivity and nurturing a deeper commitment <br>to our collective human impact on the world.</p>
 <br>- 🔭 I’m currently working on [Modern Car App](https://modern-car-app.vercel.app/)<br><br>- 🌱 I’m currently learning **Nest.Js, GraphQL, Python.**<br><br>- 👨‍💻 All of my projects are available at [marialestrella.com](https://www.marialestrella.com)<br><br>- 💬 Ask me about **React.js, Node.js, SQL, MongoDB, TypeScript, Next.js**<br><br>- 📫 How to reach me **mrestrella4@gmail.com**
