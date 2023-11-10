@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I am María Estrella</h1>
 <br>
 <h3 align="justify">A passionate Full Stack developer, lover of technology in general. For me, technology is not just a passion; it's a mission to transform lives, enhancing the quality of existence and addressing an array of challenges across various domains. Whether it's in the realms of education, finance, housing, or leisure pursuits, technology serves as a versatile force, a pivotal axis that profoundly influences our lives. It goes beyond mere innovation. it's a catalyst for positive change, fostering inclusivity and nurturing a deeper commitment to our collective human impact on the world.</h3>
-<br>- 
+<br>
 🌱 I’m profeiency in React.js, Node.Js, Express.js, TypeScript, MongoDB, SQL<br><br>
 🌱 I'm currently learning Nest.Js, GraphQL, Python <br><br>
-🔭 I’m currently doing an Internship in New Idea Machine (https://newideamachine.com) <br><br>- 🌱 I’m currently learning **Nest.Js, GraphQL, Python.**<br><br>- 👨‍💻 All of my projects are available at my Portfolio https://www.marialestrella.com<br><br>- 💬 Ask me about **React.js, Node.js, SQL, MongoDB, TypeScript, Next.js**<br><br>- 📫 How to reach me **mrestrella4@gmail.com**
+🔭 I’m currently doing an Internship in New Idea Machine (https://newideamachine.com) <br><br>- 🌱 I’m currently learning **Nest.Js, GraphQL, Python.**<br><br>- 👨‍💻 All of my projects are available at my Portfolio https://www.marialestrella.com<<br><br>- 📫 How to reach me **mrestrella4@gmail.com**
 
 
 ## 🌐 Socials:
