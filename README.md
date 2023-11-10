@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nest.Js, GraphQL, Python.**
 
-- 👨‍💻 All of my projects are available at [marialestrella.com](marialestrella.com)
+- 👨‍💻 All of my projects are available at [marialestrella.com](https://www.marialestrella.com)
 
 - 💬 Ask me about **React.js, Node.js, SQL, MongoDB, TypeScript, Next.js**
 
