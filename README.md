@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlestrella843" alt="mlestrella843" /></a> </p>
 
-- 🔭 I’m currently doing an Internship in New Idea Machine. I'm working on [Modern Car App](https://modern-car-app.vercel.app/)
+- 🔭 I’m currently doing an Internship in [New Idea Machine](https://newideamachine.com/). I'm working on [Modern Car App](https://modern-car-app.vercel.app/)
 
 - 🌱 I’m currently learning **Nest.Js, GraphQL, Python.**
 
