@@ -1,3 +1,9 @@
+ <style>
+    h1, h3 {
+      color: black;
+    }
+  </style>
+
 <h1 align="center">Hi 👋, I am María Estrella</h1>
 <br>
 <h3 align="justify" text-color="black">A passionate Full Stack Developer, lover of technology in general. For me, technology is not just a passion; it's a mission to transform lives, enhancing the quality of existence and addressing an array of challenges across various domains. Whether it's in the realms of education, finance, housing, or leisure pursuits, technology serves as a versatile force, a pivotal axis that profoundly influences our lives. It goes beyond mere innovation. it's a catalyst for positive change, fostering inclusivity and nurturing a deeper commitment to our collective human impact on the world.</h3>
