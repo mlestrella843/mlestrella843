@@ -6,7 +6,7 @@
 🌱 I’m proficiency in React.js, Node.Js, Express.js, TypeScript, MongoDB, SQL<br><br>
 🌱 I'm currently learning Nest.Js, GraphQL, Python <br><br>
 🔭 I’m currently an Intern Team Player at New Idea Machine  <a href="https://newideamachine.com" style="text-decoration: none; color: black;">New Idea Machine</a> <br><br>
-👨‍💻 A few of my projects are available at my Portfolio <a href="www.marialestrella.com" style="text-decoration: none; color: black;">Maria Estrella</a><br><br>
+👨‍💻 A few of my projects are available at my Portfolio <a href="http://www.marialestrella.com" style="text-decoration: none; color: black;">Maria Estrella</a><br><br>
 📫 How to reach me **mrestrella4@gmail.com**<br><br>
 </p>
 
