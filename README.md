@@ -1,4 +1,4 @@
-<p align="center" style="color: black font-size: 46px; ">Hi 👋, I am María Estrella</p>
+<p align="center" style="color: black; font-size: 46; ">Hi 👋, I am María Estrella</p>
 <br>
 <h3 align="justify" style="color: black;">A passionate Full Stack Developer, lover of technology in general. For me, technology is not just a passion; it's a mission to transform lives, enhancing the quality of existence and addressing an array of challenges across various domains. Whether it's in the realms of education, finance, housing, or leisure pursuits, technology serves as a versatile force, a pivotal axis that profoundly influences our lives. It goes beyond mere innovation. it's a catalyst for positive change, fostering inclusivity and nurturing a deeper commitment to our collective human impact on the world.</h3>
 <br>
