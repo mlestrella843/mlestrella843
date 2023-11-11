@@ -1,6 +1,6 @@
 <h3 align="center" style="color: yellow; font-size: 46; ">Hi 👋, I am María Estrella</h3>
 <br>
-<h3 align="justify" style="color: black;">A passionate Full Stack Developer, lover of technology in general. For me, technology is not just a passion; it's a mission to transform lives, enhancing the quality of existence and addressing an array of challenges across various domains. Whether it's in the realms of education, finance, housing, or leisure pursuits, technology serves as a versatile force, a pivotal axis that profoundly influences our lives. It goes beyond mere innovation. it's a catalyst for positive change, fostering inclusivity and nurturing a deeper commitment to our collective human impact on the world.</h3>
+<h3 align="justify" style="color: black;">A passionate Full Stack Developer, lover of technology in general. For me, technology is not just a passion; it is a mission to transform lives, improving the quality of existence and addressing a range of challenges in various domains. Whether in education, finance, housing, or entertainment, technology is a versatile force, a lynchpin that profoundly influences our lives. It goes beyond mere innovation. It is a catalyst for positive change, fostering inclusion and human development in the world.</h3>
 <br>
 <p text-color="black">
 🌱 I’m proficiency in React.js, Node.Js, Express.js, TypeScript, MongoDB, SQL<br><br>
