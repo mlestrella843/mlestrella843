@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nest.Js, GraphQL, Python.**
 
-- 👨‍💻 All of my projects are available at [marialestrella.com](https://www.marialestrella.com)
+- 👨‍💻 A few of my projects are available at [marialestrella.com](https://www.marialestrella.com)
 
 - 📫 How to reach me **mrestrella4@gmail.com**
 
