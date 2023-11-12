@@ -3,13 +3,13 @@
 <h3 align="justify" >A passionate Full Stack developer, lover of technology in general. For me, technology is not just a passion; it's a mission to transform lives, enhancing the quality of existence and addressing an array of challenges across various domains. Whether it's in the realms of education, finance, housing, or leisure pursuits, technology serves as a versatile force, a pivotal axis that profoundly influences our lives. It goes beyond mere innovation—it's a catalyst for positive change, fostering inclusivity and nurturing a deeper commitment to our collective human impact on the world.</h3>
 <br>
 
-- 🔭 I’m currently an Intern Team Player in [New Idea Machine](https://newideamachine.com)
+- 👨‍💻 I'm proficient in **React.js, Node.js, SQL, MongoDB, TypeScript, Next.js**
+
+- 🔭 I’m currently an Intern Team Player at [New Idea Machine](https://newideamachine.com)
 
 - 🌱 I’m currently learning **Nest.Js, GraphQL, Python.**
 
 - 👨‍💻 All of my projects are available at [marialestrella.com](marialestrella.com)
-
-- 💬 Ask me about **React.js, Node.js, SQL, MongoDB, TypeScript, Next.js**
 
 - 📫 How to reach me **mrestrella4@gmail.com**
 
