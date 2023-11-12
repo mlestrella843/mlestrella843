@@ -30,7 +30,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mlestrella843&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlestrella843&show_icons=true&locale=en&layout=compact" alt="mlestrella843" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlestrella843&show_icons=true&locale=en" alt="mlestrella843" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlestrella843&show_icons=true&locale=en" alt="mlestrella843" /></p> -->
