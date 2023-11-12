@@ -1,4 +1,4 @@
-
+<img src="mlestrella843/GitHub_Banner.jpg" alt="banner">
 <h3 align="center" style="color: yellow; font-size: 46; ">Hi 👋, I am María Estrella</h3>
 <br>
 <h3 align="justify" style="color: black;">Passionate Full Stack Developer and tech lover. For me, technology is not just a passion; it is a mission to transform lives, improving the quality of existence and addressing a range of challenges in various domains. Whether in education, finance, housing, or entertainment, technology is a versatile force, a lynchpin that profoundly influences our lives. It goes beyond mere innovation. It is a catalyst for positive change, fostering inclusion and human development in the world.</h3>
