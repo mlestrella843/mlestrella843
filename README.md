@@ -1,4 +1,4 @@
-
+![GitHub Banner](GitHub_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Maria Estrella</h1>
 <h3 align="center">A passionate Full Stack developer, lover of technology in general. For me, technology is not just a passion; it's a mission to transform lives, enhancing the quality of existence and addressing an array of challenges across various domains. Whether it's in the realms of education, finance, housing, or leisure pursuits, technology serves as a versatile force, a pivotal axis that profoundly influences our lives. It goes beyond mere innovation—it's a catalyst for positive change, fostering inclusivity and nurturing a deeper commitment to our collective human impact on the world.</h3>
 
@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **mrestrella4@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/marialuisaestrella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/marialuisaestrella/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com///leetcode.com/mestrella843/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="//leetcode.com/mestrella843/" height="30" width="40" /></a>
