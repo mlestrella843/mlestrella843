@@ -1,6 +1,6 @@
 ![GitHub Banner](GitHub_Banner.jpg)
 <p align="center">Hi 👋, I'm Maria Estrella</p>
-<p class="text-dark align-justify" >A passionate Full Stack developer. For me, technology is not just the latest tool; it is a vehicle used to transform lives, improving the quality of our existence by addressing a range of challenges in various domains. Whether in education, finance, housing, or entertainment, technology is a catalyst for positive change, fostering inclusion and human development in the world..</p>
+<p class="text-dark align-justify font-size-lg" >A passionate Full Stack developer. For me, technology is not just the latest tool; it is a vehicle used to transform lives, improving the quality of our existence by addressing a range of challenges in various domains. Whether in education, finance, housing, or entertainment, technology is a catalyst for positive change, fostering inclusion and human development in the world..</p>
 
 <br>
 
