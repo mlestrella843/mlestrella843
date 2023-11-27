@@ -1,7 +1,7 @@
 
 ![GitHub Banner](GitHub_Banner.jpg)
 <h1 align="center"> Hi 👋, I'm Maria Estrella</h1>
-<h3 align="justify">A passionate Full Stack developer. For me, technology is not just the latest tool; it is a vehicle used to transform lives, improving the quality of our existence by addressing a range of challenges in various domains. Whether in education, finance, housing, or entertainment, technology is a catalyst for positive change, fostering inclusion and human development.</h3>
+<h3 align="justify">A passionate Full Stack developer. For me, technology is a vehicle used to transform lives, improving the quality of our existence by addressing a range of challenges in various domains. Whether in education, finance, housing, or entertainment, technology is a catalyst for positive change, fostering inclusion and human development.</h3>
 <br>
 
 - 👨‍💻 I'm proficient in **React.js, Node.js, SQL, MongoDB, TypeScript, Next.js**
