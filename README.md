@@ -6,9 +6,7 @@
 
 - 👨‍💻 I'm proficient in **React.js, Node.js, SQL, MongoDB, TypeScript, Next.js**
 
-- 🔭 I’m currently an Intern Team Player at [New Idea Machine](https://newideamachine.com/team/word-game-app/))
-
-- 🌱 I’m currently learning **Nest.Js, GraphQL, Python.**
+- 🌱 I’m currently learning **GraphQL, AI+Python.**
 
 - 👨‍💻 A few of my projects are available at [marialestrella.com](https://www.marialestrella.com)
 
